@@ -3,7 +3,7 @@ Contains files for Internet Programming and DBMS project
 
 Steps to run
 
-1.Have a LAMP/WAMP stack running on your local.
+1.Have a LAMP/XAMPP stack running on your local.
 
 2.Download this repo to your htdocs folder
 
